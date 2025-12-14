@@ -1,0 +1,7 @@
+{
+  "name": "Grumpy Gourmet - 暴躁美食家",
+  "description": "An AI-powered restaurant picker with a terrible attitude. Helping indecisive people find food with snarky, high-standard recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
